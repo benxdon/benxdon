@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋
+
+Data Science & Engineering student at The University of Hong Kong  
+Interested in Machine Learning, Data Systems, and building practical tools.
+
+Currently exploring:
+- Machine Learning & Deep Learning
+- Applications of Deep Learning in real life
+- Full-stack applications for data products
 
 <!--
 **benxdon/benxdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
