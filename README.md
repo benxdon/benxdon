@@ -1,7 +1,6 @@
-# Hi, I'm Brandon 👋
-
-Data Science & Engineering student at The University of Hong Kong  
-Interested in Machine Learning, Data Systems, and building practical tools.
+# Hi there, I am Brandon 👋
+---
+I am currently a second year undergrad student at the University of Hong Kong. Currently pursuing things related to Data Science, Machine Learning, Mathematics and I also occasionally work on my homelab!
 
 Currently exploring:
 - Machine Learning & Deep Learning
