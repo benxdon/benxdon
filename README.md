@@ -1,5 +1,4 @@
 # Hi there, I am Brandon 👋
----
 I am currently a second year undergrad student at the University of Hong Kong. Currently pursuing things related to Data Science, Machine Learning, Mathematics and I also occasionally work on my homelab!
 
 Currently exploring:
