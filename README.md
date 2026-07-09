@@ -1,22 +1,14 @@
 # Hi there, I am Brandon 👋
-I am currently a second year undergrad student at the University of Hong Kong. Currently pursuing things related to Data Science, Machine Learning, Mathematics and I also occasionally work on my homelab!
+Second going Third year at HKU, working across the stack from ML down to machine. I am most comfortable when I'm building something end-to-end understanding what's underneath.
 
-Currently exploring:
-- Machine Learning & Deep Learning
-- Applications of Deep Learning in real life
-- Full-stack applications for data products
+**What I'm into:**
+- ML / data systems - RAG pipelines, forecasting + optimization, LLM tooling
+- Systems - currently I am working through CS:App and building compilor in Go
+- Linux systems, I run Arch + a simple home-lab 
 
-<!--
-**benxdon/benxdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Something I've built:**
+- planopt: production planning, LightGBM + linear-programming optimization, with LLM chat interface
+- du: a RAG agent that summarizes inbox into daily ingests (ChromaDB)
+- Khiet Order System: an order system for my friend bakery (Flask)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now:** Systems fundamentals (C, CS:App), a Go compiler, and planning to understand more about systems engineering.
