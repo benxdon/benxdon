@@ -13,4 +13,4 @@ Second going Third year at HKU, working across the stack from ML down to machine
 
 **Now:** Systems fundamentals (C, CS:App), a Go compiler, and planning to understand more about systems engineering.
 
-You can find more information about me on my website: portfolio.brandonlin.workers.dev
+You can find more information about me on my website: [portfolio.brandonlin.workers.dev](link)
